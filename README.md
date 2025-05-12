@@ -90,11 +90,11 @@ function generateImage() {
 downloadLink.href = canvas.toDataURL('image/png');
 iconDownloadLink.href = canvas.toDataURL('image/x-icon');
 ```
-###💡 Dicas de Uso
-Para melhores resultados:
-Use 1-2 caracteres para ícones
-Cores contrastantes entre texto e fundo
-Tamanho padrão de 512x512 pixels
+###💡 Dicas de Uso  <br>
+Para melhores resultados:  <br>
+Use 1-2 caracteres para ícones  <br>
+Cores contrastantes entre texto e fundo  <br>
+Tamanho padrão de 512x512 pixels  <br>
 
 Personalização:
 ```css
